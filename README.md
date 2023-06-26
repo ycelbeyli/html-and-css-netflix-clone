@@ -1,9 +1,9 @@
 # Hello everyone. Welcome to my HTML and CSS tutorials!
-#### Hello everyone, friends. I continue training with HTML and CSS, I tried different things in this project. I think you should check it out :)
+#### Friends again after a long time. In this work, I cloned Netflix using HTML and CSS. You can access it from the link below.
 
 #### Click demo to try it by yourself!
 
-#### You can view the site here [Click Me](https://html-and-css-training-7.netlify.app/)
+#### You can view the site here [Click Me](https://html-and-css-netflix-clone.netlify.app/)
 
 #### The website I'm trying to clone while doing the project [Click Me](https://www.youtube.com/watch?v=9nywQdjKnJI&t=131s)
 # Topics
